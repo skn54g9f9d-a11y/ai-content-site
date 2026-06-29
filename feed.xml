@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI 内容站</title>
+    <link>https://skn54g9f9d-a11y.github.io/ai-content-site/</link>
+    <description>聚焦 AI 领域热门话题，每日更新 ChatGPT、Claude、Gemini 等大模型最新动态、工具评测与实用教程。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 29 Jun 2026 11:50:00 +0800</lastBuildDate>
+    <atom:link href="https://skn54g9f9d-a11y.github.io/ai-content-site/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>OpenAI GPT-5.6发布：Sol/Terra/Luna三档模型全面对标Claude</title>
+      <link>https://skn54g9f9d-a11y.github.io/ai-content-site/articles/news/gpt-5-6-sol-terra-luna-launch.html</link>
+      <guid isPermaLink="true">https://skn54g9f9d-a11y.github.io/ai-content-site/articles/news/gpt-5-6-sol-terra-luna-launch.html</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      <description>2026年6月27日，OpenAI正式发布GPT-5.6有限预览版，推出Sol、Terra、Luna三档模型。旗舰Sol在编程测试Terminal-Bench 2.1上比Claude Fable 5高出7.6个百分点，目前仅向少数合作伙伴开放。</description>
+      <category>AI资讯</category>
+    </item>
+    <item>
+      <title>AI工厂时代来临：NVIDIA黄仁勋宣告AI产业新范式</title>
+      <link>https://skn54g9f9d-a11y.github.io/ai-content-site/articles/tools/ai-factory-era-nvidia-jerry-wong.html</link>
+      <guid isPermaLink="true">https://skn54g9f9d-a11y.github.io/ai-content-site/articles/tools/ai-factory-era-nvidia-jerry-wong.html</guid>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0800</pubDate>
+      <description>2026年6月25日英伟达股东大会，黄仁勋正式提出「AI工厂」概念——Blackwell平台token吞吐量比次优平台高出30倍，全球近40个国家已部署英伟达AI工厂。Vera Rubin平台全球首个AI Agent专用CPU全面量产。</description>
+      <category>工具评测</category>
+    </item>
+  </channel>
+</rss>
